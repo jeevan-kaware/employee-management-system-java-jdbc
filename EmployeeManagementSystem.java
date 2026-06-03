@@ -1,4 +1,4 @@
-package Projects;
+package com.jeevan.employee;
 
 import java.sql.*;
 import java.util.Scanner;
